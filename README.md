@@ -1,6 +1,5 @@
 # web design project
 
 <ul>
-     <li>a href="" target="_blank">Jungkook</li>
-
+     <li>/Users/gayaali/Documents/GitHub/webprojects/Jungkook.html</li>
      </ul>
